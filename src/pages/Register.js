@@ -10,7 +10,7 @@ const Register = () => {
       <div className="flex">
         <label>
           <input required placeholder="" type="text" className="input" />
-          <span>Firstname</span>
+          <span>Firstname</span> <br></br>
         </label>
 
         <label>
