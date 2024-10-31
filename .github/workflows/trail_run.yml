@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: cloning the github repo to runner
-        uses: actions/checkout@4
+        uses: actions/checkout@v4
 
       - name: access the varibles
         run: |
